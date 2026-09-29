@@ -1,6 +1,7 @@
 # Meghdoot AI — Atmospheric Intelligence
 
 **Himalayan Cloudburst & Flash-Flood Decision Support Prototype**
+<!-- v2.0 React migration -->
 
 Meghdoot AI is an interactive geospatial command-center prototype for situational awareness during extreme orographic rainfall events in the Himalayan river basin. It demonstrates the intended architecture of a physics-informed AI nowcasting and flood-surge routing system, built around the 2013 Kedarnath cloudburst scenario.
 
